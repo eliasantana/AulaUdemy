@@ -1,3 +1,6 @@
 ----- Comit Inicial -------
 Início do documento
 ____________________________
+
+Adicionando tarefas v.1.01
+____________________________
