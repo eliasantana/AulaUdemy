@@ -8,4 +8,6 @@ ____________________________
 Alterando  métodos
 ------------------------------
 Adicionando alterações - Elias Santana
-
+-----------------------------------------
+Alteração realizada por janiel
+-------------------------------------------
