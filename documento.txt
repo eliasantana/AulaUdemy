@@ -11,3 +11,19 @@ Adicionando alterações - Elias Santana
 -----------------------------------------
 Alteração realizada por janiel
 -------------------------------------------
+
+/*
+ * 	Funcionalidade de cadastro de Cliente
+ */
+public void cadastroDeCliente(Cliente c){
+
+	String sql="INSERT INTO tbcliente (nome) VALUES 'Elias Santana'";
+	
+	try{
+		pst=conexao.preparedStetman(sql);
+
+	}catch{
+	
+	}
+
+}
