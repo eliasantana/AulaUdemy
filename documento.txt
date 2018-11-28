@@ -27,3 +27,6 @@ public void cadastroDeCliente(Cliente c){
 	}
 
 }
+
+
+alteração
